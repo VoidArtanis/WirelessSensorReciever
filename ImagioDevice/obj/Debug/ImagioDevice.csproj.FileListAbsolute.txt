@@ -1,0 +1,10 @@
+c:\users\desha\documents\visual studio 2015\Projects\ImagioDevice\ImagioDevice\bin\Debug\ImagioDevice.dll
+c:\users\desha\documents\visual studio 2015\Projects\ImagioDevice\ImagioDevice\bin\Debug\ImagioDevice.pdb
+c:\users\desha\documents\visual studio 2015\Projects\ImagioDevice\ImagioDevice\obj\Debug\ImagioDevice.dll
+c:\users\desha\documents\visual studio 2015\Projects\ImagioDevice\ImagioDevice\obj\Debug\ImagioDevice.pdb
+C:\Users\desha\Documents\Visual Studio 2015\Projects\ImagioDevice\ImagioDevice\obj\Debug\ImagioDevice.csprojResolveAssemblyReference.cache
+D:\oLD\Visual Studio 2015\Projects\ImagioDevice\ImagioDevice\bin\Debug\ImagioDevice.dll
+D:\oLD\Visual Studio 2015\Projects\ImagioDevice\ImagioDevice\bin\Debug\ImagioDevice.pdb
+D:\oLD\Visual Studio 2015\Projects\ImagioDevice\ImagioDevice\obj\Debug\ImagioDevice.csprojResolveAssemblyReference.cache
+D:\oLD\Visual Studio 2015\Projects\ImagioDevice\ImagioDevice\obj\Debug\ImagioDevice.dll
+D:\oLD\Visual Studio 2015\Projects\ImagioDevice\ImagioDevice\obj\Debug\ImagioDevice.pdb
